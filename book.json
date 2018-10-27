@@ -1,0 +1,36 @@
+{
+  "title": "TradingView平台中文WIKI",
+  "description": "TradingView平台中文WIKI",
+  "language": "zh",
+  "plugins": [
+    "disqus",
+    "github",
+    "prism",
+    "splitter",
+    "sitemap",
+    "donate",
+    "addcssjs"
+  ],
+  "pluginsConfig": {
+    "disqus": {
+      "shortName": "aitrade-ga"
+    },
+    "github": {
+      "url": "https://github.com/zlq4863947/TradingViewPlatformWikiCn"
+    },
+    "donate": {
+      "wechat": "https://b.aitrade.ga/books/tradingview/images/weixin.png",
+      "alipay": "https://b.aitrade.ga/books/tradingview/images/alipay.png",
+      "button": "赏",
+      "alipayText": "支付宝打赏",
+      "wechatText": "微信打赏"
+    },
+    "sitemap": {
+      "hostname": "http://aitrade.ga"
+    },
+    "addcssjs": {
+      "js": ["js/tv.js"],
+      "css": []
+    }
+  }
+}
