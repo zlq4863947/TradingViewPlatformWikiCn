@@ -8,8 +8,7 @@
     "prism",
     "splitter",
     "sitemap",
-    "donate",
-    "addcssjs"
+    "donate"
   ],
   "pluginsConfig": {
     "disqus": {
@@ -27,10 +26,6 @@
     },
     "sitemap": {
       "hostname": "http://aitrade.ga"
-    },
-    "addcssjs": {
-      "js": ["js/tv.js"],
-      "css": []
     }
   }
 }

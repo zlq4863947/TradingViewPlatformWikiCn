@@ -13,4 +13,4 @@
 
 * TradingView指标技术交流：642190997
 
-![](/images/qrcode.png)
+<img src="/images/qrcode.png" alt="drawing" width="200"/>

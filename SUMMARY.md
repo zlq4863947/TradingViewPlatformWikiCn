@@ -1,8 +1,8 @@
 
-<script type="text/javascript" src="https://s3.tradingview.com/tv.js"></script>
-# Summary
+# 摘要
 
 * [序言](README.md)
+* [目录](SUMMARY.md)
 * [更新日志](CHANGE-LOG.md)
 
 ---
@@ -28,3 +28,21 @@
 
 * [03-1、Add](book/03/Add.md)
 * [03-2、Add/my](book/03/Add_my.md)
+* [03-3、Compare](book/03/Compare.md)
+* [03-4、Compare/my](book/03/Compare_my.md)
+* [03-5、Events](book/03/Events.md)
+* [03-6、Extended Trading Hours](book/03/Extended_Trading_Hours.md)
+* [03-7、Scaling Options](book/03/Scaling_Options.md)
+* [03-8、Study Templates](book/03/Study_Templates.md)
+* [03-9、Text Notes](book/03/Text_Notes.md)
+
+---
+
+## 04、Chart Patterns
+
+* [04-1、Broadening Tops and Bottoms](book/04/Broadening_Tops_and_Bottoms.md)
+* [04-2、Cup and Handle](book/04/Cup_and_Handle.md)
+* [04-3、Double Tops and Bottoms](book/04/Double_Tops_and_Bottoms.md)
+* [04-4、Flag and Pennant](book/04/Flag_and_Pennant.md)
+* [04-5、Head and Shoulders](book/04/Head_and_Shoulders.md)
+
