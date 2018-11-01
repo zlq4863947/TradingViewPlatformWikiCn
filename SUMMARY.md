@@ -84,13 +84,54 @@
 * [04、Horizontal Ray](book/06/2/Horizontal_Ray.md)
 * [05、Parallel Channel](book/06/2/Parallel_Channel.md)
 * [06、Ray](book/06/2/Ray.md)
-* [07、Fib Wedge](book/06/2/Fib_Wedge.md)
-* [08、Gann Box](book/06/2/Gann_Box.md)
-* [09、Gann Fan](book/06/2/Gann_Fan.md)
-* [10、Gann Square](book/06/2/Gann_Square.md)
-* [11、Inside Pitchfork](book/06/2/Inside_Pitchfork.md)
-* [12、Pitchfan](book/06/2/Pitchfan.md)
-* [13、Pitchfork](book/06/2/Pitchfork.md)
-* [14、Schiff Pitchfork](book/06/2/Schiff_Pitchfork.md)
-* [15、Trend-Based Fib Extension](book/06/2/Trend-Based_Fib_Extension.md)
-* [16、Trend-Based Fib Time](book/06/2/Trend-Based_Fib_Time.md)
+* [07、Regression Trend](book/06/2/Regression_Trend.md)
+* [08、Trend Line](book/06/2/Trend_Line.md)
+* [09、Vertical Line](book/06/2/Vertical_Line.md)
+
+### 06-3、Marks
+* [01、Arrow Marks](book/06/3/Arrow_Marks.md)
+* [02、Flag Mark](book/06/3/Flag_Mark.md)
+* [03、Price Label](book/06/3/Price_Label.md)
+* [04、Thumb Up/Down Marks](book/06/3/Thumb_Up_Down_Marks.md)
+
+### 06-4、Patterns and Waves
+* [01、ABCD Pattern](book/06/4/ABCD_Pattern.md)
+* [02、Elliott Major Retracement](book/06/4/Elliott_Major_Retracement.md)
+* [03、Elliott Minor Retracement](book/06/4/Elliott_Minor_Retracement.md)
+* [04、Elliott Wave Circle](book/06/4/Elliott_Wave_Circle.md)
+* [05、Elliott Wave Minor](book/06/4/Elliott_Wave_Minor.md)
+* [06、Elliott Wave Subminuette](book/06/4/Elliott_Wave_Subminuette.md)
+* [07、Head & Shoulders](book/06/4/Head_%26_Shoulders.md)
+* [08、Three Drivers Pattern](book/06/4/Three_Drivers_Pattern.md)
+* [09、Triangle Pattern](book/06/4/Triangle_Pattern.md)
+* [10、XABCD Pattern](book/06/4/XABCD_Pattern.md)
+* [11、Inside Pitchfork](book/06/4/Inside_Pitchfork.md)
+
+### 06-5、Positions and Forecasting
+* [01、Bars Pattern](book/06/5/Bars_Pattern.md)
+* [02、Date Range](book/06/5/Date_Range.md)
+* [03、Forecast](book/06/5/Forecast.md)
+* [04、Long Position](book/06/5/Long_Position.md)
+* [05、Price Range](book/06/5/Price_Range.md)
+* [06、Projection](book/06/5/Projection.md)
+* [07、Short Position](book/06/5/Short_Position.md)
+
+### 06-6、Shapes
+* [01、Arc](book/06/6/Arc.md)
+* [02、Ellipse](book/06/6/Ellipse.md)
+* [03、Paint Brush](book/06/6/Paint_Brush.md)
+* [04、Polyline](book/06/6/Polyline.md)
+* [05、Rectangle](book/06/6/Rectangle.md)
+* [06、Triangle](book/06/6/Triangle.md)
+
+### 06-7、Text
+* [01、Anchored Text](book/06/7/Anchored_Text.md)
+* [02、Balloon](book/06/7/Balloon.md)
+* [03、Callout](book/06/7/Callout.md)
+* [04、Text](book/06/7/Text.md)
+
+---
+
+## 07、Fundamentals
+
+* [07-1、Fundamentals](book/07/Fundamentals.md)

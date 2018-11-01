@@ -3,21 +3,21 @@
 
 ## 目录
 
--   [1、DESCRIPTION](#DESCRIPTION)
-    -   [1.1、Creating alerts](#Creating_alerts)
-    -   [1.2、Alerts Functions](#Alerts_Functions)
-    -   [1.3、Alerts Actions](#Alerts_Actions)
-    -   [1.4、Alerts for drawings](#Alerts_for_drawings)
--   [2、ALERTS TYPES](#ALERTS_TYPES)
-    -   [2.1、Crossing](#Crossing)
-    -   [2.2、Crossing Down / Crossing Up](#Crossing_Down_.2F_Crossing_Up)
-    -   [2.3、Greater Than / Less Than](#Greater_Than_.2F_Less_Than)
-    -   [2.4、Entering Channel / Exiting Channel](#Entering_Channel_.2F_Exiting_Channel)
-    -   [2.5、Inside Channel / Outside Channel](#Inside_Channel_.2F_Outside_Channel)
-    -   [2.6、Moving Up / Moving Down](#Moving_Up_.2F_Moving_Down)
-    -   [2.7、Moving Up % / Moving Down %](#Moving_Up_.25_.2F_Moving_Down_.25)
-    -   [2.8、Custom Alert Conditions](#Custom_Alert_Conditions)
--   [3、MANAGE ALERTS](#MANAGE_ALERTS)
+-   [1、DESCRIPTION](#description)
+    -   [1.1、Creating alerts](#creating-alerts)
+    -   [1.2、Alerts Functions](#alerts-functions)
+    -   [1.3、Alerts Actions](#alerts-actions)
+    -   [1.4、Alerts for drawings](#alerts-for-drawings)
+-   [2、ALERTS TYPES](#alerts-types)
+    -   [2.1、Crossing](#crossing)
+    -   [2.2、Crossing Down / Crossing Up](#crossing-down--crossing-up)
+    -   [2.3、Greater Than / Less Than](#greater-than--less-than)
+    -   [2.4、Entering Channel / Exiting Channel](#entering-channel--exiting-channel)
+    -   [2.5、Inside Channel / Outside Channel](#inside-channel--outside-channel)
+    -   [2.6、Moving Up / Moving Down](#moving-up--moving-down)
+    -   [2.7、Moving Up % / Moving Down %](#moving-up---moving-down-)
+    -   [2.8、Custom Alert Conditions](#custom-alert-conditions)
+-   [3、MANAGE ALERTS](#manage-alerts)
 
 # DESCRIPTION
 

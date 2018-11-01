@@ -4,12 +4,12 @@
 
 ## 目录
 
-- [JURIK RESEARCH](#JURIK_RESEARCH)
-- [JMA](#JMA)
-- [RSX](#RSX)
-- [VEL](#VEL)
-- [CFB](#CFB)
-- [DMX](#DMX)
+- [JURIK RESEARCH](#jurikresearch)
+- [JMA](#jma)
+- [RSX](#rsx)
+- [VEL](#vel)
+- [CFB](#cfb)
+- [DMX](#dmx)
 
 ### JURIK_RESEARCH
 
